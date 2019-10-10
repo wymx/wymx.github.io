@@ -1,2 +1,0 @@
-# wymx.github.io
-blog
